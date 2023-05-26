@@ -1,0 +1,4 @@
+pandas
+numpy
+seaget_requirementsborn
+-e.
